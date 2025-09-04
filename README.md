@@ -2,6 +2,7 @@
 ## Introduction and Programming Experience
 My name is Muhammad Hamza Siddiqui. I am currently studying in FAST-NUCES Karachi campus. Having a Pre engineering A level background I am new to coding and but am really interested. We started studying C language in the first semester and my goal at the end of the semester is to use what I study practically other than making the final Project.
 <br/>
+<br/>
 Favourite Foods
 <br/>
 1. Nihari
@@ -17,4 +18,5 @@ Name of Classmate:
 - Hammad
 - Usman
 <br/>
-_**This what we studied on 04/09/2025**_
+
+**_This what we studied on 04/09/2025_**
